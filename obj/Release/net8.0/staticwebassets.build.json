@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7pUZTLxXvGewlaAHnnwaeu1u5c2ZoyKgbAp6c8YBVGg=",
+  "Source": "SageBridgeAPI",
+  "BasePath": "_content/SageBridgeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,96 @@
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.staticwebassets.endpoints.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.exe
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.deps.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.runtimeconfig.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.pdb
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.csproj.AssemblyReference.cache
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.AssemblyInfoInputs.cache
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.AssemblyInfo.cs
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\scopedcss\bundle\SageBridgeAPI.styles.css
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.SageBridgeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.SageBridgeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SageBridgeAPI.props
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SageBridgeAPI.props
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SageBridgeAPI.props
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBrid.89141BD1.Up2Date
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\refint\SageBridgeAPI.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.pdb
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.genruntimeconfig.cache
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\ref\SageBridgeAPI.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Pastel.Evolution.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Pastel.Evolution.Common.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Pastel.Evolution.xml
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Finance.Team\source\repos\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.staticwebassets.endpoints.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.exe
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.deps.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.runtimeconfig.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\SageBridgeAPI.pdb
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\bin\Debug\net8.0\Pastel.Evolution.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.AssemblyInfoInputs.cache
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.AssemblyInfo.cs
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\scopedcss\bundle\SageBridgeAPI.styles.css
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.SageBridgeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.SageBridgeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SageBridgeAPI.props
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SageBridgeAPI.props
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SageBridgeAPI.props
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBrid.89141BD1.Up2Date
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\refint\SageBridgeAPI.dll
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.pdb
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\SageBridgeAPI.genruntimeconfig.cache
+C:\Users\prime\OneDrive\Documents\Rainy Day\SageBridgeAPI\obj\Debug\net8.0\ref\SageBridgeAPI.dll

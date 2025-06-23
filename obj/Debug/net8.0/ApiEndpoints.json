@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "SageBridgeAPI.Controllers.SageController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/Sage/customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SageBridgeAPI.Controllers.CustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SageBridgeAPI.Controllers.SageController",
+    "Method": "PostCustomerTransaction",
+    "RelativePath": "api/Sage/CustomerTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SageBridgeAPI.Controllers.CustomerTransactionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SageBridgeAPI.Controllers.SageController",
+    "Method": "SalesOrderTest",
+    "RelativePath": "api/Sage/SalesOrderTest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SageBridgeAPI.Controllers.SalesOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

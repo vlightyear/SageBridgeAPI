@@ -1,0 +1,6 @@
+@SageBridgeAPI_HostAddress = http://localhost:5193
+
+GET {{SageBridgeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
