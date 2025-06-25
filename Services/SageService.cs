@@ -23,7 +23,7 @@
             return C;
         }
 
-        public CustomerTransaction PostCustomerTransaction(string customerCode, string reference, string description, string GLAccount, double amount)
+        /*public CustomerTransaction PostCustomerTransaction(string customerCode, string reference, string description, string GLAccount, double amount)
         {
             CustomerTransaction CustTran = new CustomerTransaction();
             CustTran.Customer = new Customer(customerCode);
@@ -37,7 +37,7 @@
 
             return CustTran;
         }
-
+*/
         public SalesOrder PostSalesOrder(string CustomerCode, List<OrderItem> OrderItems)
         {
             SalesOrder order = new SalesOrder();
@@ -59,9 +59,16 @@
             }
 
             order.Save();
-            order.Complete();
 
             return order;
+        }
+
+        public SalesOrder CompleteSalesOrder(string OrderNo)
+        {
+            SalesOrder so = new SalesOrder(OrderNo);
+            so.Complete();
+
+            return so;
         }
     }
 

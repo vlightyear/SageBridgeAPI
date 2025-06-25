@@ -34,7 +34,7 @@
             }
         }
 
-        [HttpPost("CustomerTransaction")]
+        /*[HttpPost("CustomerTransaction")]
         public IActionResult PostCustomerTransaction([FromBody] CustomerTransactionRequest request)
         {
             dynamic response = new ExpandoObject();
@@ -61,15 +61,34 @@
                 response.Exception = ex.Message;
                 return BadRequest(response);
             }
-        }
+        }*/
 
-        [HttpPost("SalesOrderTest")]
+        [HttpPost("SalesOrder")]
         public IActionResult SalesOrderTest([FromBody] SalesOrderRequest request)
         {
             dynamic response = new ExpandoObject();
             try
             {
                 SalesOrder order = _sageService.PostSalesOrder(request.CustomerCode, request.OrderItems);
+                response.status = "Ok";
+                response.SalesOrderNumber = order.OrderNo;
+                return Ok(response);
+            }
+            catch (Exception ex)
+            {
+                response.status = "Error";
+                response.Exception = ex.Message;
+                return BadRequest(response);
+            }
+        }
+
+        [HttpPost("CompleteSalesOrder")]
+        public IActionResult CompleteSalesOrder([FromBody] CompleteSalesOrderRequest request)
+        {
+            dynamic response = new ExpandoObject();
+            try
+            {
+                SalesOrder order = _sageService.CompleteSalesOrder(request.OrderNo);
                 response.status = "Ok";
                 response.SalesOrderNumber = order.OrderNo;
                 return Ok(response);
@@ -108,6 +127,10 @@
         public List<OrderItem> OrderItems { get; set; }
     }
 
+    public class CompleteSalesOrderRequest
+    {
+        public string OrderNo { get; set; }
+    }
     public class OrderItem
     {
         public TaxMode TaxMode { get; set; } = TaxMode.Inclusive;
